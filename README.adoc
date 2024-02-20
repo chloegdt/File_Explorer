@@ -1,11 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/G801g4IR)
-= Gestionnaire de Fichiers en Commandes en Ligne avec Annotations
-
-GODET, Chloé, 21802934, 56
-
-GROSJACQUES, Marwane, 22006204, 04
-
-https://github.com/ensYeh/miniprojet-grp-56_04
+Énoncé du projet : 
 
 L'objet de ce mini-projet est de développer un https://fr.wikipedia.org/wiki/Gestionnaire_de_fichier[gestionnaire de fichiers] en commande en ligne. Le gestionnaire de fichier s'appuie sur le système de fichier de votre système d'exploitation. Le gestionnaire de fichier doit offrir la possibilité d'annoter les éléments contenus dans un répertoire (i.e.fichiers, répertoires).
 Vous devrez respecter les contraintes fonctionnelles et techniques mentionnées ci-dessous.
